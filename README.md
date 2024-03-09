@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.meubusao.com/#hero-14](https://www.meubusao.com/images/ic_launcher2.png)" alt="Logo" width="200" height="200">
+  <img src="https://www.meubusao.com/images/ic_launcher2.png" alt="Logo" width="200" height="200">
 </p>
 
 # MeuBusaoService
