@@ -1,0 +1,24 @@
+summary: "Get Token to submit queries to database"
+description: "This method get token by using your identificator"
+produces:
+- "application/json"
+parameters:
+- in: "header"
+  name: "id"
+  type: "string"
+  required: "true"
+responses:
+  200:
+    description: "Success"
+    schema:
+      type: "object"
+      properties:
+        data:
+          type: "object"
+        status:
+          type: "string"
+        message:
+          type: "string"
+ 
+  401:
+    description: "Could not verify! Login Failed"
