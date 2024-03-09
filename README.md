@@ -25,11 +25,38 @@ pip install -r requirements.txt
 # Run the Flask application
 python app.py
 
-# Real-time bus tracking
-📍 Interactive route maps
-🗺️ Personalized journey planner
-🚀
-Certainly! Here's a section you can include in your README.md file to explain what GTFS is:
+---
+
+## Welcome to MeuBusao.com!
+
+### Discover the Exciting Features:
+
+#### 🚌 Real-Time Tracking:
+Stay informed with live updates on bus locations and arrival times. Never miss your ride again!
+
+#### 🗺️ Interactive Maps:
+Explore routes and stops with our intuitive maps. Plan your journey effortlessly.
+
+#### 📅 Personalized Schedules:
+Create custom schedules tailored to your daily commute. Say goodbye to waiting at the bus stop!
+
+#### 📱 Mobile Accessibility:
+Access MeuBusao.com on the go! Our mobile-friendly design ensures convenience wherever you are.
+
+#### 🛍️ Nearby Amenities:
+Discover nearby amenities such as restaurants, cafes, and attractions while waiting for your bus.
+
+#### 🚦 Traffic Alerts:
+Receive real-time traffic alerts to help you navigate congested routes and avoid delays.
+
+#### 📈 Data Insights:
+Gain valuable insights into bus performance and rider trends with our comprehensive analytics tools.
+
+#### 📣 Community Engagement:
+Join our vibrant community of transit enthusiasts. Share tips, stories, and feedback with fellow riders.
+
+### Start Your Journey Today!
+Experience the ultimate convenience in bus travel with MeuBusao.com. Sign up now and embark on seamless, stress-free commutes!
 
 ---
 
