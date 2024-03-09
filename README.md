@@ -1,14 +1,15 @@
-# Objective
-It is a simple service to practice arithmetic progression concepts. It is necessary to install flask as part of this solution in order to creqte service qnd run as a local server.
+<p align="center">
+  <img src="[https://www.meubusao.com/#hero-14](https://www.meubusao.com/images/ic_launcher2.png)" alt="Logo" width="200" height="200">
+</p>
 
-# Installing Flask
-https://flask.palletsprojects.com/en/1.1.x/installation/
+# MeuBusaoService
 
-# Running application in Power Shell Terminal
+Welcome to MeuBusaoService! This is a Flask-based bus transportation API that retrieves data from a PostgreSQL database in a cloud structure.
 
-$env:FLASK_APP = "ap.py"
+## Installation
 
-python -m flask run
+To install MeuBusaoService, follow these steps:
 
-Example: http://127.0.0.1:5000/sumProgression/2/2/2
-# meubusaoservice
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Lisiane-von-ahn/meubusaoservice.git
