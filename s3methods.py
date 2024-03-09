@@ -22,8 +22,8 @@ s3_api = Blueprint('s3_api', __name__)
 def get_credentials(_):
     return (
         "us-east-1",
-        "AKIA6MQPG25HH4YZ4Z4Q",
-        "wJGq5/KikqhGYBUQseRTXlvboSMDQ0+DxEj150Yx",
+        "",
+        "",
         None
     )
 
