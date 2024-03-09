@@ -70,5 +70,3 @@ Developers can use GTFS data to create a wide range of applications and services
 For more information about GTFS, including specifications and resources for developers, visit the [official GTFS website](https://developers.google.com/transit/gtfs).
 
 --- 
-
-Feel free to customize this section based on your project's needs and target audience.
